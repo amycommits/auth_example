@@ -21,4 +21,5 @@ Things you may want to cover:
 
 * Deployment instructions
 
+`http://localhost:3000/auth/google_oauth2`
 * ...
